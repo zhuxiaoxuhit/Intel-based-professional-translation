@@ -12,7 +12,7 @@ With Intel's optimizations for large language models, efficiency and cost-effect
 
 ## Demo
 
-![Intel-based-professional-translation](https://github.com/zhuxiaoxuhit/Intel-based-professional-translation/assets/32813150/cbc5fe4c-da63-4acf-a246-b0d71427687e)
+![Intel-based-professional-translation](https://private-user-images.githubusercontent.com/32813150/341720722-cbc5fe4c-da63-4acf-a246-b0d71427687e.mp4)
 
 ## Usage
 
